@@ -4,7 +4,7 @@ import Latte from "./Latte";
 const Coffee = (props) => {
   console.log(props);
 
-  return <h2>커피도 맛있다!</h2>;
+  return <h2>커피도 맛있다2</h2>;
 };
 
 const App = () => {
